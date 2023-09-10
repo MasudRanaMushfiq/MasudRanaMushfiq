@@ -1,5 +1,3 @@
-<h3 align="center">Hey 👋 What's up?</h3>
-
 ###
 
 <h1 align="center">I am Masud Rana Mushfiq</h1>
@@ -10,8 +8,8 @@
 
 ###
 
-- <p align="left">📚 I'm currently learning **Java** </p>
-- <p align="left">📚 I know **HTML**, **CSS** and **JavaScript**</p>
+- <p align="left">📚 I'm currently learning Java </p>
+- <p align="left">📚 I know HTML, CSS and JavaScript</p>
 
 
 ###
@@ -34,16 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
