@@ -3,14 +3,10 @@
 <h1 align="center">I am Masud Rana Mushfiq</h1>
 
 ###
-
 <h2 align="left">I'm a Student</h2>
-
 ###
-
 - <p align="left">📚 I'm currently learning Java </p>
 - <p align="left">📚 I know HTML, CSS and JavaScript</p>
-
 
 ###
 
