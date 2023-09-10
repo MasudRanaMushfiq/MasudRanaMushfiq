@@ -1,6 +1,6 @@
 # 💫 About Me:
-##Hi, i am **Masud Rana Mushfiq**
-###Now just a Student
+## Hi, i am **Masud Rana Mushfiq**
+### Now just a Student
 
 
 ### 🌐 Socials:
