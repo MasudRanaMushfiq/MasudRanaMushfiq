@@ -6,9 +6,9 @@
 <h2 align="left">I'm a Student</h2> 
 
 ### 
-- <p align="left">📚 I'm currently Web Development and Computation,  </p>
+- <p align="left">📚 I'm currently learning Web Development and Computation,  </p>
 - <p align="left">📚 I know HTML, CSS and JavaScript</p>
-- <p align="left">📚 I OOP in Java & C++</p>
+- <p align="left">📚 I know OOP in Java & C++</p>
 - <p align="left">📚 I know Data Structutre & Algorithm</p>
 
 ###
