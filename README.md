@@ -9,8 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=masudranamushfiq&label=Profile%20views&color=0e75b6&style=flat" alt="masudranamushfiq" />
 </p>
 
----
-
 <p align="center">
   <a href="https://masudranamushfiq.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Masud%20Rana%20Mushfiq-16A34A?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=15803D" alt="Portfolio - Masud Rana Mushfiq" />
@@ -24,6 +22,8 @@
 <p align="center">
   I build scalable web applications, REST APIs, and modern full-stack systems.
 </p>
+
+---
 
 <h2 >🚀 About Me</h2>
 
