@@ -1,8 +1,8 @@
 <h2 align="center">Hi there 👋, I'm Masud Rana Mushfiq</h2>
 
 <h3 align="center">
-  ⚙️ Backend Developer &nbsp;|&nbsp;
-  🚀 Laravel · Node.js · React · React Native
+  Backend Developer &nbsp;|&nbsp;
+   Laravel &nbsp;|&nbsp; Node.js &nbsp;|&nbsp; React &nbsp;|&nbsp; React Native
 </h3>
 
 <p align="center">
