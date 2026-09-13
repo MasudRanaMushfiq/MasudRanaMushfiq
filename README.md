@@ -23,6 +23,8 @@
   I build scalable web applications, REST APIs, and modern full-stack systems.
 </p>
 
+<h2 >🚀 About Me</h2>
+
 * 🎓 B.Sc. in Computer Science & Engineering, University of Rajshahi, Bangladesh (Nov 2022 — Present) 
 * 🔭 Currently working with **Laravel, Node.js, React & React Native**
 * 🎓 Computer Science student passionate about **software engineering and backend development**
@@ -77,8 +79,5 @@
 | [**Rajshahi University Employee Profile System**](http://profile.ru.ac.bd/public) | Full-stack employee profile, payroll, CV, payslip and public directory platform serving 4,586+ university employees | Laravel · Rest API · MySQL · React · TypeScript |
 | [**Belleza**](https://bellezabh.com/)                                          | E-commerce platform with backend systems for products, orders and online store operations                           | Laravel · MySQL · REST API · Next.js            |
 | [**Rajshahi University Student Management System**](https://studentdb.ru.ac.bd/)  | University-wide student data platform managing 53,000+ student records and providing REST APIs for multiple systems | Laravel · PHP · MySQL · REST API           |
-
----
-
 
 
